@@ -2,16 +2,26 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-color: #283772;
 }
 
 #tentacles {
     width: 50px;
+    padding-right: 10px;
 }
+
+h2 {
+    color: slategray;
+}
+
+#description-container{
+    color: slategray;
+}
+
 
 .header {
     display: flex;
-    background-color: lightblue;
+    background-color: lightslategray;
     padding: 1%;
     align-items: center;
     margin-left: -10px;
