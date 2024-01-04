@@ -147,7 +147,7 @@ const totalGamesString = `${totalGames} ${totalGames === 1 ? 'game' : 'games'}`;
 // create a new DOM element containing the template string and append it to the description container
 const descriptionElement = document.createElement("div");
 descriptionElement.innerHTML = `
-  <p>A total of $${totalAmountRaised} has been raised for ${totalGamesString}. Currently, ${unfundedGamesString} remain unfunded. We need your help to fund these amazing games</p>
+  <p>A total of $${totalAmountRaised.toLocaleString()} has been raised for ${totalGamesString}. Currently, ${unfundedGamesString} remain unfunded. We need your help to fund these amazing games</p>
 `;
 descriptionContainer.appendChild(descriptionElement);
 
