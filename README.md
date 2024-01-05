@@ -24,9 +24,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+Imgur link if Gif isn't working: [Imgur](https://i.imgur.com/DKzeqHZ.gif)
 
 <!--![Video Walkthrough](/assets/demo.gif)-->
-![Video Walkthrough Giphy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNvaGx6ZmNzdWlxcGNrbGViY3NrdHk0dXVncjFnOHh4eTZyM3pncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lnuw1xMZEzpJj6K8YY/giphy.gif)
+![Video Walkthrough Giphy](https://i.imgur.com/DKzeqHZ.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS. 
